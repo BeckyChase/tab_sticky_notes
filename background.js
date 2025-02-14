@@ -1,0 +1,1 @@
+// Background script handling storage
